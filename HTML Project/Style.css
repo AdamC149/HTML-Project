@@ -1,0 +1,41 @@
+body {
+  background-color: lightblue;
+}
+  
+h1 {
+  color:white;
+  text-align: center;
+}
+  
+p {
+  font-family: verdana;
+  font-size: 14px;
+  text-align: left;
+}
+
+.Header {
+  border: 5px outset white;
+  background-color: blue;    
+  text-align: center;
+}
+
+.Description {
+  border: 1px solid black;
+  width: 1000px;
+  margin: 25px 25px;
+  background-color: lightblue;    
+  text-align: left;
+}
+
+.Link {
+  border: 5px outset lightblue;
+  width: 300px;
+  margin: auto;
+  background-color: lightblue;    
+  text-align: center;
+}
+
+img {
+  border: 3px solid black;
+  margin: 25px 25px;;
+}
